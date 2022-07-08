@@ -93,6 +93,6 @@ async def ban(ctx, members: commands.Greedy[discord.Member],
   
 
 
-bot.run("ODc5ODM1MDQ5MTc5MTA3NDU4.Go14EE.l5Zp6FJ-FQK4GmQtYd9_baG3gpIHWHfXWIJgZ4")
+bot.run("ODc5ODM1MDQ5MTc5MTA3NDU4.GmSUC-.PMMA0X_VaXyzvru422IRIz_TcsXZ3Dmc0g4DyE")
 
 
